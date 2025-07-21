@@ -7,7 +7,7 @@ Student
 i've been learning code for 2 years.
 
 * 🌍  I'm based in Ratchaburi, Thailand
-* 🖥️  See my portfolio at [MyPortfolio](http://ghostpenguin3d.github.io/Portfolio/)
+* 🖥️  See my portfolio at [MyPortfolio](http://ghostpenguin3d.github.io/Portfolio/) (not finished)
 * ✉️  You can contact me at [pandaza6312@gmail.com](mailto:pandaza6312@gmail.com)
 
 ### Skills
