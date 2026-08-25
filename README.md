@@ -9,7 +9,6 @@
 ---
 
 - 🌍 Based in **Ratchaburi, Thailand**
-- 🖥️ Check out my portfolio at [ghostpenguin3d.github.io/Portfolio](http://ghostpenguin3d.github.io/Portfolio/) *(in progress)*
 - ✉️ Reach me at [pandaza6312@gmail.com](mailto:pandaza6312@gmail.com)
 - 🌱 I've been learning to code for **2 years**
 
